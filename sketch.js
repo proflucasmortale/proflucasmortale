@@ -24,4 +24,3 @@ function draw() {
   // Aumenta o ângulo de abertura das pétalas
   petalAngle += 0.05;
 }
-
